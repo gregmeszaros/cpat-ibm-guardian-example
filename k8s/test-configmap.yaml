@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: test-configmap
+  labels:
+    label3: label-test3
+    label4: label-test4
+data:
+  key1: 'updated'
+  test-value: 'added'
