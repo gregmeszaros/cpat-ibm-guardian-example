@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: new-configmap
+  labels:
+    label: test
+data:
+  key: sample-value
