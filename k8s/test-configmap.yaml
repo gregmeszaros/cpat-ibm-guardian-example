@@ -8,3 +8,4 @@ metadata:
 data:
   key1: 'updated'
   test-value: 'added'
+  new-data: 'test updates'
